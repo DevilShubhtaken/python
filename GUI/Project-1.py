@@ -1,3 +1,8 @@
+# Problem 2
+#Title: Simple Counter Application with Tkinter 
+#Problem Statement: Design and implement a simple counter application using Tkinter, a Python GUI library.
+#                   The application should provide users with a graphical user interface featuring a counter label 
+#                   and two buttons for incrementing and decrementing the counter value. 
 from tkinter import *
 import sys
 import random

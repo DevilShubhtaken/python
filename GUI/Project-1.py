@@ -8,6 +8,7 @@ import sys
 import random
 # import tkinter as tk
 root = Tk()
+root.geometry(f"450x450")
 var = "Push me Harder"
 root.count = 1
 def button_click():

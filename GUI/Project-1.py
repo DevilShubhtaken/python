@@ -43,5 +43,3 @@ button2.pack(side=RIGHT, ipadx=20, ipady=20, padx=10, pady=10)
 button3 = Button(root, text="EXIT", command=sys.exit)
 button3.pack(side=RIGHT, ipadx=20, ipady=20, padx=10, pady=10)
 root.mainloop()
-
-# button4 = Button(root, text=random)
